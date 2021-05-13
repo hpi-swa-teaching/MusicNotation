@@ -8,8 +8,8 @@ SmalltalkCISpec {
     }
   ],
   #testing : {
-   #coverage : {
-    #packages : [ 'MusicNotation-.*' ]
-   }
+    #coverage : {
+      #packages : [ 'MusicNotation-.*' ]
+    }
   }
 }
