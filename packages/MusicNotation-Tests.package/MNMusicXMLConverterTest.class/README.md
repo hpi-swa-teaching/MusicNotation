@@ -1,1 +1,0 @@
-I am a class to test the MNMusicXMLConverter class.
