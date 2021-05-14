@@ -1,5 +1,5 @@
 
-# Music Notation [![Build Status](https://travis-ci.org/hpi-swa-teaching/MusicNotation.svg)](https://travis-ci.org/hpi-swa-teaching/MusicNotation) [![Coverage Status](https://img.shields.io/badge/coverage-disabled-red)](https://github.com/hpi-swa-teaching/MusicNotation/issues/67)
+# Music Notation [![Build Status](https://travis-ci.org/hpi-swa-teaching/MusicNotation.svg)](https://travis-ci.org/hpi-swa-teaching/MusicNotation) [![Coverage Status](https://coveralls.io/repos/github/hpi-swa-teaching/MusicNotation/badge.svg?branch=feat/89-continuous-integration)](https://coveralls.io/github/hpi-swa-teaching/MusicNotation?branch=feat/89-continuous-integration)
 
 Group 13
 
